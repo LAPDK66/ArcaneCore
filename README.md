@@ -1,4 +1,4 @@
-###everything just ideas. currently programmed.
+#everything just ideas. currently programmed.
 
 
 
