@@ -1,3 +1,7 @@
+###everything just ideas. currently programmed.
+
+
+
 # ✦ ArcaneCore — Paper 1.21 Plugin Design Document
 
 > **Target:** Paper MC 1.21
